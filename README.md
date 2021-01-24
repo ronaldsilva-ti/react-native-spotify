@@ -19,6 +19,7 @@ This application was configured for IOS only
 
 
 ### Screenshot
-![Simulator Screen Shot - iPhone 11 - 2021-01-23 at 21 14 45](https://user-images.githubusercontent.com/57809579/105618173-25da4700-5dc3-11eb-94c8-5d439a7b55ee.png)
+![Simulator Screen Shot - iPhone 11 - 2021-01-23 at 21 14 45](https://user-images.githubusercontent.com/57809579/105618223-9f723500-5dc3-11eb-8630-e0c55c68c39a.png)
 
-![Simulator Screen Shot - iPhone 11 - 2021-01-23 at 21 14 55](https://user-images.githubusercontent.com/57809579/105618178-2ffc4580-5dc3-11eb-854a-3425d63e346a.png)
+![Simulator Screen Shot - iPhone 11 - 2021-01-23 at 21 40 11](https://user-images.githubusercontent.com/57809579/105618225-a6994300-5dc3-11eb-95fb-1c48c87d4d6e.png)
+
