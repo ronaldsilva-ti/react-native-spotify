@@ -3,7 +3,7 @@ React Native -  SPOTIFY-APP-ALBUMS
 
 1.Install Node.js
 
-2.```https://github.com/ronaldsilva-ti/react-native-spotify.git```
+2.```git clone https://github.com/ronaldsilva-ti/react-native-spotify.git```
 
 3.```cd react-native-spotify```
 
